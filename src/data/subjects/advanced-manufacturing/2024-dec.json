@@ -1,0 +1,265 @@
+{
+  "year": "2024 Dec",
+  "code": "5153002",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Non-Traditional machining is recommended when we need which of the following features?",
+      "options": [
+        "Complex shapes",
+        "High surface quality",
+        "Low rigidity structures",
+        "All of the mentioned"
+      ],
+      "answer": 3,
+      "chapter": "Unit 1: Introduction to Non-traditional Machining",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "i" },
+        { "year": "2022", "qno": "i" }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Source of energy in NTM is",
+      "options": [
+        "Mechanical",
+        "Thermal",
+        "Chemical",
+        "All of the above"
+      ],
+      "answer": 3,
+      "chapter": "Unit 1: Introduction to Non-traditional Machining",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "ii" },
+        { "year": "2022", "qno": "iv" }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "This device used for converting any type of energy into Ultrasonic Wave in USM is",
+      "options": [
+        "Electronic oscillator",
+        "Velocity transformer",
+        "Horn",
+        "Ultrasonic transducer"
+      ],
+      "answer": 1,
+      "chapter": "Unit 2: Non-traditional Machining Processes",
+      "formula": "f = 1/T",
+      "formulaId": "usm-freq",
+      "repeatedIn": [
+        { "year": "2023", "qno": "iii" }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Which of the following is a mechanical machining process?",
+      "options": [
+        "EDM",
+        "ECM",
+        "LBM",
+        "PAM"
+      ],
+      "answer": 3,
+      "chapter": "Unit 1: Introduction to Non-traditional Machining",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "iv" }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Electrode wire in EDM is made from",
+      "options": [
+        "Copper",
+        "Nickel",
+        "Brass",
+        "Tungsten"
+      ],
+      "answer": 1,
+      "chapter": "Unit 2: Non-traditional Machining Processes",
+      "formula": "MRR = I·t / (F·ρ)",
+      "formulaId": "edm-mrr",
+      "repeatedIn": [
+        { "year": "2023", "qno": "v" }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Degree of freedom in space is",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "12"
+      ],
+      "answer": 2,
+      "chapter": "Unit 3: Jigs and Fixtures",
+      "formula": "DOF = 6",
+      "formulaId": "dof-space",
+      "repeatedIn": [
+        { "year": "2023", "qno": "vi" },
+        { "year": "2022", "qno": "vi" }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "With the use of Jigs & Fixture, labour cost will be",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Unchanged",
+        "None"
+      ],
+      "answer": 2,
+      "chapter": "Unit 3: Jigs and Fixtures",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "vii" }
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "Jigs are preferred over fixture in",
+      "options": [
+        "Drilling",
+        "Milling",
+        "Turning",
+        "Grinding"
+      ],
+      "answer": 0,
+      "chapter": "Unit 3: Jigs and Fixtures",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "viii" },
+        { "year": "2022", "qno": "xiii" }
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "DNC stands for",
+      "options": [
+        "Direct Numerical Control",
+        "Distributed Numerical Control",
+        "Data Numerical Control",
+        "None"
+      ],
+      "answer": 0,
+      "chapter": "Unit 4: CNC Machine Tools",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "ix" },
+        { "year": "2022", "qno": "xv" }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "“EOB” in CNC programming stands for",
+      "options": [
+        "End of block",
+        "End of program",
+        "End of operation",
+        "None"
+      ],
+      "answer": 0,
+      "chapter": "Unit 5: CNC Part Programming",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "x" }
+      ]
+    },
+    {
+      "id": "q11",
+      "text": "CNC machine does NOT include",
+      "options": [
+        "Turning",
+        "Milling",
+        "Welding",
+        "Grinding"
+      ],
+      "answer": 2,
+      "chapter": "Unit 4: CNC Machine Tools",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "xi" }
+      ]
+    },
+    {
+      "id": "q12",
+      "text": "“M” Codes are used for",
+      "options": [
+        "Preparatory Function",
+        "Miscellaneous Function",
+        "Motion Function",
+        "None"
+      ],
+      "answer": 1,
+      "chapter": "Unit 5: CNC Part Programming",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "xii" }
+      ]
+    },
+    {
+      "id": "q13",
+      "text": "“G” Codes are used for",
+      "options": [
+        "Miscellaneous Function",
+        "Preparatory Function",
+        "Motion Function",
+        "None"
+      ],
+      "answer": 1,
+      "chapter": "Unit 5: CNC Part Programming",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "xiii" }
+      ]
+    },
+    {
+      "id": "q14",
+      "text": "Every FMS has entry & exit",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0,
+      "chapter": "Unit 6: Flexible Manufacturing System (FMS)",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "xiv" }
+      ]
+    },
+    {
+      "id": "q15",
+      "text": "“FMS” stands for",
+      "options": [
+        "Flexible Machining System",
+        "Fast Machining System",
+        "Flexible Manufacturing System",
+        "None"
+      ],
+      "answer": 2,
+      "chapter": "Unit 6: Flexible Manufacturing System (FMS)",
+      "formula": null,
+      "formulaId": null,
+      "repeatedIn": [
+        { "year": "2023", "qno": "xv" },
+        { "year": "2022", "qno": "xiv" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rankine-eff",
+    "name": "Rankine Cycle Efficiency",
+    "latex": "\\eta = 1 - \\frac{T_2}{T_1}",
+    "usedIn": ["q4", "q21"]
+  },
+  {
+    "id": "specific-speed",
+    "name": "Specific Speed",
+    "latex": "N_s = \\frac{N \\sqrt{P}}{H^{5/4}}",
+    "usedIn": ["q6"]
+  },
+  {
+    "id": "impulse-work",
+    "name": "Work Done in Impulse Turbine",
+    "latex": "W = u (V_{w1} + V_{w2})",
+    "usedIn": ["q23"]
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "year": "2023",
+  "code": "518(2/N)",
+  "questions": [
+    // ================== GROUP A: MCQs (15) ==================
+    {
+      "id": "q1",
+      "text": "The main function of a clutch in an automobile is to",
+      "options": ["Transmit power", "Change gear", "Cool the engine", "Stop the vehicle"],
+      "answer": 0,
+      "chapter": "Unit 1: Transmission System",
+      "type": "mcq"
+    },
+    {
+      "id": "q2",
+      "text": "In a single plate clutch, torque is transmitted by means of",
+      "options": ["Friction", "Gear teeth", "Spline", "Key"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q3",
+      "text": "The differential gear is used in vehicles to",
+      "options": ["Increase speed", "Decrease speed", "Allow wheels to rotate at different speeds", "Stop the vehicle"],
+      "answer": 2,
+      "chapter": "Unit 2: Final Drive & Rear Axle",
+      "type": "mcq"
+    },
+    {
+      "id": "q4",
+      "text": "The purpose of a propeller shaft is to transmit power from",
+      "options": ["Engine to clutch", "Clutch to gearbox", "Gearbox to differential", "Differential to wheels"],
+      "answer": 2,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q5",
+      "text": "Synchromesh device is used in",
+      "options": ["Clutch", "Gearbox", "Differential", "Brakes"],
+      "answer": 1,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q6",
+      "text": "The braking system which uses compressed air is called",
+      "options": ["Hydraulic", "Mechanical", "Air brake", "Vacuum brake"],
+      "answer": 2,
+      "chapter": "Unit 3: Braking System",
+      "type": "mcq"
+    },
+    {
+      "id": "q7",
+      "text": "In a disc brake, the braking force is applied by",
+      "options": ["Drum", "Caliper", "Master cylinder", "Shoe"],
+      "answer": 1,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q8",
+      "text": "The function of a shock absorber is to",
+      "options": ["Absorb road shocks", "Support vehicle weight", "Control steering", "Cool the engine"],
+      "answer": 0,
+      "chapter": "Unit 4: Suspension System",
+      "type": "mcq"
+    },
+    {
+      "id": "q9",
+      "text": "MacPherson strut is a type of",
+      "options": ["Suspension", "Steering", "Brake", "Clutch"],
+      "answer": 0,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q10",
+      "text": "The steering gear used in most modern cars is",
+      "options": ["Worm and wheel", "Rack and pinion", "Cam and lever", "Recirculating ball"],
+      "answer": 1,
+      "chapter": "Unit 5: Steering System",
+      "type": "mcq"
+    },
+    {
+      "id": "q11",
+      "text": "Power steering reduces",
+      "options": ["Steering effort", "Vehicle speed", "Fuel consumption", "Engine power"],
+      "answer": 0,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+    {
+      "id": "q12",
+      "text": "The battery in a vehicle is used to",
+      "options": ["Start the engine", "Run the AC", "Light the headlamps", "All of the above"],
+      "answer": 3,
+      "chapter": "Unit 6: Electrical System",
+      "type": "mcq"
+    },
+    {
+      "id": "q13",
+      "text": "The alternator converts",
+      "options": ["Mechanical energy to electrical", "Electrical to mechanical", "Chemical to electrical", "None"],
+      "answer": 0,
+      "chapter": "Unit 6",
+      "type": "mcq"
+    },
+    {
+      "id": "q14",
+      "text": "The tyre size 165/70 R13 means",
+      "options": ["Width 165 mm, Aspect ratio 70%, Radial, Rim 13 inch", "Width 70 mm, Aspect 165%, Radial, Rim 13 inch", "Width 13 mm, Aspect 70%, Bias, Rim 165 inch", "None"],
+      "answer": 0,
+      "chapter": "Unit 7: Wheels and Tyres",
+      "type": "mcq"
+    },
+    {
+      "id": "q15",
+      "text": "Tubeless tyres have",
+      "options": ["Inner tube", "No inner tube", "Steel tube", "Rubber tube"],
+      "answer": 1,
+      "chapter": "Unit 7",
+      "type": "mcq"
+    },
+
+    // ================== GROUP B: Short Answers (5) ==================
+    {
+      "id": "q16",
+      "text": "State the function of a clutch.",
+      "answer": "To connect and disconnect the engine from the transmission system smoothly.",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "text": "What is a universal joint?",
+      "answer": "A flexible joint that allows transmission of power at varying angles between propeller shaft and differential.",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "text": "Name two types of brakes.",
+      "answer": "1. Disc brake\n2. Drum brake",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "text": "What is the purpose of a master cylinder?",
+      "answer": "To convert mechanical force from brake pedal into hydraulic pressure.",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "text": "Define camber in wheels.",
+      "answer": "The outward tilt of the wheel from vertical when viewed from front.",
+      "chapter": "Unit 5",
+      "type": "short",
+      "marks": 2
+    },
+
+    // ================== GROUP C: Long Answers (5) ==================
+    {
+      "id": "q21",
+      "text": "Explain the construction and working of a single plate clutch with a neat sketch.",
+      "answer": "A **single plate clutch** is used in light vehicles.\n\n**Construction:**\n- Flywheel (attached to crankshaft)\n- Clutch plate (friction lining on both sides)\n- Pressure plate\n- Diaphragm spring\n- Clutch cover\n- Release bearing\n\n**Working:**\n1. **Engaged:** Spring presses pressure plate → clutch plate grips flywheel → power transmitted.\n2. **Disengaged:** Clutch pedal pressed → release bearing pushes diaphragm → pressure plate moves back → clutch plate free → power cut.\n\n**Advantages:** Simple, compact, smooth engagement.\n\n**Diagram:** Flywheel ← Clutch Plate → Pressure Plate → Spring → Release Bearing.",
+      "chapter": "Unit 1: Transmission System",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q22",
+      "text": "With a neat sketch explain the working of a hydraulic brake system.",
+      "answer": "Hydraulic brakes use fluid pressure to apply brakes.\n\n**Components:**\n- Master cylinder\n- Brake lines\n- Wheel cylinders\n- Brake shoes/pads\n\n**Working:**\n1. Driver presses brake pedal.\n2. Piston in master cylinder pushes fluid.\n3. Fluid pressure reaches wheel cylinders.\n4. Pistons push brake shoes/pads against drum/disc.\n5. Friction stops wheel.\n\n**Advantages:** Equal braking, self-adjusting.\n\n**Diagram:** Pedal → Master Cylinder → Lines → Wheel Cylinder → Shoes → Drum.",
+      "chapter": "Unit 3: Braking System",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q23",
+      "text": "Describe the construction and function of a telescopic shock absorber with sketch.",
+      "answer": "Telescopic shock absorber controls spring oscillations.\n\n**Construction:**\n- Outer cylinder\n- Inner piston rod\n- Piston with valves\n- Oil filled\n- Dust cover\n\n**Working:**\n1. On bump: Piston compresses oil → resistance.\n2. On rebound: Oil flows through valves → damping.\n\n**Types:** Twin-tube, Mono-tube.\n\n**Diagram:** Outer Tube → Piston → Oil → Valves → Spring.",
+      "chapter": "Unit 4: Suspension System",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q24",
+      "text": "Explain rack and pinion steering system with advantages.",
+      "answer": "Most common in modern cars.\n\n**Construction:**\n- Steering wheel → Column → Pinion → Rack → Tie rods → Wheels\n\n**Working:**\n1. Turn wheel → Pinion rotates.\n2. Rack moves left/right.\n3. Tie rods turn wheels.\n\n**Advantages:**\n- Light and compact\n- Direct feel\n- Less play\n- Easy power assist\n\n**Diagram:** Wheel → Pinion → Rack → Tie Rod → Wheel.",
+      "chapter": "Unit 5: Steering System",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q25",
+      "text": "Draw the electrical circuit of starting system and explain its working.",
+      "answer": "Starting system uses battery to crank engine.\n\n**Components:**\n- Battery\n- Ignition switch\n- Starter motor\n- Solenoid\n- Flywheel ring gear\n\n**Working:**\n1. Key to START.\n2. Current to solenoid.\n3. Solenoid engages pinion with ring gear.\n4. Motor cranks engine.\n5. Engine starts → key released.\n\n**Diagram:** Battery (+) → Switch → Solenoid → Motor → Ground.",
+      "chapter": "Unit 6: Electrical System",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    }
+  ]
+}

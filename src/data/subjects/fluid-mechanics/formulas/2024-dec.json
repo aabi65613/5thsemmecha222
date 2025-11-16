@@ -1,0 +1,50 @@
+[
+  {
+    "id": "venturi-flow",
+    "name": "Venturimeter Discharge",
+    "latex": "Q = C_d a_1 a_2 \\sqrt{\\frac{2g(h_1 - h_2)}{a_1^2 - a_2^2}}",
+    "usedIn": ["q3"]
+  },
+  {
+    "id": "darcy-head-loss",
+    "name": "Darcy-Weisbach Head Loss",
+    "latex": "h_f = \\frac{f L V^2}{2 g D}",
+    "usedIn": ["q5"]
+  },
+  {
+    "id": "jet-force",
+    "name": "Force on Plate by Jet",
+    "latex": "F = \\rho A V^2 (1 - \\cos \\theta)",
+    "usedIn": ["q6", "q22"]
+  },
+  {
+    "id": "turbine-specific-speed",
+    "name": "Specific Speed of Turbine",
+    "latex": "N_s = \\frac{N \\sqrt{P}}{H^{5/4}}",
+    "usedIn": ["q9"]
+  },
+  {
+    "id": "pump-specific-speed",
+    "name": "Specific Speed of Pump",
+    "latex": "N_s = \\frac{N \\sqrt{Q}}{H^{3/4}}",
+    "usedIn": ["q20"]
+  },
+  {
+    "id": "bernoulli-eq",
+    "name": "Bernoulli's Equation",
+    "latex": "\\frac{P}{\\rho g} + \\frac{V^2}{2g} + z = constant",
+    "usedIn": ["q21"]
+  },
+  {
+    "id": "jet-impact-flat",
+    "name": "Impact on Flat Plate",
+    "latex": "F = \\rho A V^2",
+    "usedIn": ["q22"]
+  },
+  {
+    "id": "pump-discharge",
+    "name": "Centrifugal Pump Discharge",
+    "latex": "Q = \\pi D B V_r",
+    "usedIn": ["q24"]
+  }
+]

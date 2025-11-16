@@ -1,0 +1,237 @@
+{
+  "year": "2023",
+  "code": "518(2/N)",
+  "questions": [
+    // ================== GROUP A: MCQs (15) ==================
+    {
+      "id": "q1",
+      "text": "Fluid is a substance that",
+      "options": ["Cannot remain at rest under shear", "Has zero viscosity", "Cannot flow", "None"],
+      "answer": 0,
+      "chapter": "Unit 1: Fluid Properties",
+      "type": "mcq"
+    },
+    {
+      "id": "q2",
+      "text": "Pascal’s law states that pressure at a point is",
+      "options": ["Equal in all directions", "Zero", "Maximum at surface", "None"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q3",
+      "text": "The viscosity of ideal fluid is",
+      "options": ["Zero", "Infinite", "Constant", "Variable"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q4",
+      "text": "Bernoulli’s equation is based on conservation of",
+      "options": ["Mass", "Momentum", "Energy", "All"],
+      "answer": 2,
+      "chapter": "Unit 2: Fluid Flow",
+      "type": "mcq",
+      "formula": "\\frac{P}{\\rho g} + \\frac{v^2}{2g} + z = \\text{constant}",
+      "formulaId": "bernoulli"
+    },
+    {
+      "id": "q5",
+      "text": "The continuity equation is",
+      "options": ["A1V1 = A2V2", "P1 + ρV1² = P2 + ρV2²", "Q = AV", "All"],
+      "answer": 0,
+      "chapter": "Unit 2",
+      "type": "mcq",
+      "formula": "A_1 V_1 = A_2 V_2",
+      "formulaId": "continuity"
+    },
+    {
+      "id": "q6",
+      "text": "Orifice meter is used to measure",
+      "options": ["Pressure", "Velocity", "Flow rate", "Viscosity"],
+      "answer": 2,
+      "chapter": "Unit 3: Flow Measurement",
+      "type": "mcq"
+    },
+    {
+      "id": "q7",
+      "text": "Venturimeter works on",
+      "options": ["Pascal’s law", "Bernoulli’s principle", "Archimedes", "None"],
+      "answer": 1,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q8",
+      "text": "The hydraulic gradient line (HGL) represents",
+      "options": ["Total head", "Pressure head", "Velocity head", "Datum head"],
+      "answer": 1,
+      "chapter": "Unit 2",
+      "type": "mcq"
+    },
+    {
+      "id": "q9",
+      "text": "In laminar flow, Reynolds number is",
+      "options": ["< 2000", "> 4000", "2000–4000", "Any"],
+      "answer": 0,
+      "chapter": "Unit 2",
+      "type": "mcq",
+      "formula": "Re = \\frac{\\rho V D}{\\mu}",
+      "formulaId": "reynolds"
+    },
+    {
+      "id": "q10",
+      "text": "The loss of head due to sudden enlargement is",
+      "options": ["(V1 - V2)² / 2g", "V1² / 2g", "V2² / 2g", "None"],
+      "answer": 0,
+      "chapter": "Unit 4: Pipe Flow",
+      "type": "mcq",
+      "formula": "h_L = \\frac{(V_1 - V_2)^2}{2g}",
+      "formulaId": "sudden-enlarge"
+    },
+    {
+      "id": "q11",
+      "text": "Darcy-Weisbach equation is used for",
+      "options": ["Friction loss", "Minor loss", "Velocity", "Pressure"],
+      "answer": 0,
+      "chapter": "Unit 4",
+      "type": "mcq",
+      "formula": "h_f = \\frac{f L V^2}{2 g D}",
+      "formulaId": "darcy"
+    },
+    {
+      "id": "q12",
+      "text": "The boundary layer thickness increases with",
+      "options": ["Distance from leading edge", "Velocity", "Viscosity", "All"],
+      "answer": 0,
+      "chapter": "Unit 5: Boundary Layer",
+      "type": "mcq"
+    },
+    {
+      "id": "q13",
+      "text": "Drag force is due to",
+      "options": ["Pressure difference", "Shear stress", "Both", "None"],
+      "answer": 2,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+    {
+      "id": "q14",
+      "text": "The dimension of kinematic viscosity is",
+      "options": ["m²/s", "Ns/m²", "kg/m³", "N/m"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q15",
+      "text": "Pitot tube measures",
+      "options": ["Static pressure", "Dynamic pressure", "Total pressure", "Velocity"],
+      "answer": 3,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+
+    // ================== GROUP B: Short Answers (5) ==================
+    {
+      "id": "q16",
+      "text": "Define specific gravity.",
+      "answer": "Ratio of density of fluid to density of water at 4°C.",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "text": "State Bernoulli’s theorem.",
+      "answer": "Total energy (pressure + kinetic + potential) remains constant along a streamline in steady, incompressible, inviscid flow.",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "text": "Name two flow measuring devices.",
+      "answer": "1. Venturimeter\n2. Orifice meter",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "text": "What is NPSH?",
+      "answer": "Net Positive Suction Head – head available at pump inlet above vapor pressure.",
+      "chapter": "Unit 4",
+      "type": "short",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "text": "Define Reynolds number.",
+      "answer": "Ratio of inertial force to viscous force. Re = ρVD/μ",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2,
+      "formula": "Re = \\frac{\\rho V D}{\\mu}",
+      "formulaId": "reynolds"
+    },
+
+    // ================== GROUP C: Long Answers (5) ==================
+    {
+      "id": "q21",
+      "text": "Derive Bernoulli’s equation from Euler’s equation. State assumptions.",
+      "answer": "**Assumptions:**\n1. Steady flow\n2. Incompressible fluid\n3. Inviscid (no friction)\n4. Along a streamline\n\n**Derivation:**\nEuler’s equation: \\(\\frac{dP}{\\rho} + V dV + g dz = 0\\)\nIntegrate: \\(\\int \\frac{dP}{\\rho} + \\int V dV + \\int g dz = \\text{constant}\\)\n→ \\(\\frac{P}{\\rho} + \\frac{V^2}{2} + g z = \\text{constant}\\)\nDivide by g: \\(\\frac{P}{\\rho g} + \\frac{V^2}{2g} + z = \\text{constant}\\)\n\n**Diagram:** Streamline with points 1 and 2 showing P, V, z.",
+      "chapter": "Unit 2: Fluid Flow",
+      "type": "long",
+      "marks": 7,
+      "formula": "\\frac{P}{\\rho g} + \\frac{v^2}{2g} + z = \\text{constant}",
+      "formulaId": "bernoulli",
+      "diagram": true
+    },
+    {
+      "id": "q22",
+      "text": "With sketch explain construction and working of venturimeter. Derive discharge formula.",
+      "answer": "**Construction:**\n- Converging section\n- Throat\n- Diverging section\n- Pressure taps\n\n**Working:**\n1. Fluid enters converging section → velocity ↑, pressure ↓\n2. At throat: max velocity, min pressure\n3. Diverging: velocity ↓, pressure ↑\n4. Pressure difference measured → flow rate\n\n**Discharge:**\n\\( Q = C_d A_1 A_2 \\sqrt{\\frac{2 \\Delta h}{(A_1^2 - A_2^2)}} \\)\nwhere \\(\\Delta h = (P_1 - P_2)/\\rho g\\)\n\n**Diagram:** Inlet → Throat → Outlet with manometer.",
+      "chapter": "Unit 3: Flow Measurement",
+      "type": "long",
+      "marks": 7,
+      "formula": "Q = C_d A_1 A_2 \\sqrt{\\frac{2 \\Delta h}{A_1^2 - A_2^2}}",
+      "formulaId": "venturi-discharge",
+      "diagram": true
+    },
+    {
+      "id": "q23",
+      "text": "Explain major and minor losses in pipe flow. Derive Darcy-Weisbach equation.",
+      "answer": "**Major Loss (Friction):** Due to viscosity along pipe length.\n\\( h_f = \\frac{f L V^2}{2 g D} \\)\n\n**Minor Losses:** Sudden changes.\n- Sudden enlargement: \\( h_L = \\frac{(V_1 - V_2)^2}{2g} \\)\n- Sudden contraction: \\( h_L = 0.5 \\frac{V_2^2}{2g} \\)\n- Bend, valve, etc.\n\n**Derivation of Darcy:**\nFrom shear stress: \\(\\tau = f \\rho V^2 / 8\\)\nForce balance → pressure drop → head loss.\n\n**Diagram:** Pipe with friction, enlargement, bend.",
+      "chapter": "Unit 4: Pipe Flow",
+      "type": "long",
+      "marks": 7,
+      "formula": "h_f = \\frac{f L V^2}{2 g D}",
+      "formulaId": "darcy",
+      "diagram": true
+    },
+    {
+      "id": "q24",
+      "text": "Explain boundary layer theory. Define displacement and momentum thickness.",
+      "answer": "**Boundary Layer:** Region near surface where velocity changes from zero to free stream.\n\n**Types:**\n- Laminar: smooth\n- Turbulent: chaotic\n\n**Displacement Thickness (δ*):** Distance by which surface shifts to account for reduced flow.\n\\( \\delta^* = \\int_0^\\delta (1 - \\frac{u}{U}) dy \\)\n\n**Momentum Thickness (θ):** Related to momentum deficit.\n\\( \\theta = \\int_0^\\delta \\frac{u}{U} (1 - \\frac{u}{U}) dy \\)\n\n**Diagram:** Velocity profile u(y) from wall to U.",
+      "chapter": "Unit 5: Boundary Layer",
+      "type": "long",
+      "marks": 7,
+      "formula": "\\delta^* = \\int (1 - u/U) dy",
+      "formulaId": "displacement-thickness",
+      "diagram": true
+    },
+    {
+      "id": "q25",
+      "text": "A pipe 300 mm diameter carries water at 25 m/s. Find friction factor if head loss is 10 m in 100 m length. Use Darcy equation.",
+      "answer": "**Given:** D = 0.3 m, V = 25 m/s, h_f = 10 m, L = 100 m\n\n**Darcy:** \\( h_f = \\frac{f L V^2}{2 g D} \\)\n\\( 10 = \\frac{f \\times 100 \\times 25^2}{2 \\times 9.81 \\times 0.3} \\)\n\\( 10 = \\frac{f \\times 100 \\times 625}{5.886} \\)\n\\( 10 = f \\times 10625.7 \\)\n\\( f = \\frac{10}{10625.7} = 0.00094 \\)\n\n**Answer:** f ≈ 0.00094\n\n**Step-by-step:**\n1. Identify formula\n2. Plug values\n3. Solve for f",
+      "chapter": "Unit 4: Pipe Flow",
+      "type": "long",
+      "marks": 7,
+      "formula": "h_f = \\frac{f L V^2}{2 g D}",
+      "formulaId": "darcy"
+    }
+  ]
+}

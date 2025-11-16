@@ -1,0 +1,14 @@
+[
+  {
+    "id": "belt-capacity",
+    "name": "Belt Conveyor Capacity",
+    "latex": "Q = A \\times v \\times 3600 \\times \\rho",
+    "usedIn": []
+  },
+  {
+    "id": "crane-swl",
+    "name": "Safe Working Load",
+    "latex": "SWL = \\frac{\\text{Breaking Load}}{\\text{Factor of Safety}}",
+    "usedIn": []
+  }
+]

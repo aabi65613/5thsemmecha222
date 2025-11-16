@@ -1,0 +1,44 @@
+[
+  {
+    "id": "bernoulli",
+    "name": "Bernoulli's Equation",
+    "latex": "\\frac{P}{\\rho g} + \\frac{v^2}{2g} + z = \\text{constant}",
+    "usedIn": ["q4", "q21"]
+  },
+  {
+    "id": "continuity",
+    "name": "Continuity Equation",
+    "latex": "A_1 V_1 = A_2 V_2",
+    "usedIn": ["q5"]
+  },
+  {
+    "id": "reynolds",
+    "name": "Reynolds Number",
+    "latex": "Re = \\frac{\\rho V D}{\\mu}",
+    "usedIn": ["q9", "q20"]
+  },
+  {
+    "id": "darcy",
+    "name": "Darcy-Weisbach Equation",
+    "latex": "h_f = \\frac{f L V^2}{2 g D}",
+    "usedIn": ["q11", "q23", "q25"]
+  },
+  {
+    "id": "sudden-enlarge",
+    "name": "Head Loss - Sudden Enlargement",
+    "latex": "h_L = \\frac{(V_1 - V_2)^2}{2g}",
+    "usedIn": ["q10", "q23"]
+  },
+  {
+    "id": "venturi-discharge",
+    "name": "Venturimeter Discharge",
+    "latex": "Q = C_d A_1 A_2 \\sqrt{\\frac{2 \\Delta h}{A_1^2 - A_2^2}}",
+    "usedIn": ["q22"]
+  },
+  {
+    "id": "displacement-thickness",
+    "name": "Displacement Thickness",
+    "latex": "\\delta^* = \\int_0^\\delta \\left(1 - \\frac{u}{U}\\right) dy",
+    "usedIn": ["q24"]
+  }
+]

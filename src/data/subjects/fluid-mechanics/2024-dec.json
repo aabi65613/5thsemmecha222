@@ -1,0 +1,232 @@
+{
+  "year": "2024 Dec",
+  "code": "5144684",
+  "questions": [
+    // ================== GROUP A: MCQs (15) ==================
+    {
+      "id": "q1",
+      "text": "Pascal's law is used in",
+      "options": ["Hydraulic lift", "Venturimeter", "Orifice meter", "Pitot tube"],
+      "answer": 0,
+      "chapter": "Unit 1: Fluid Properties & Pressure Measurement",
+      "type": "mcq"
+    },
+    {
+      "id": "q2",
+      "text": "The unit of dynamic viscosity is",
+      "options": ["N-s/m²", "kg/m-s", "Both a and b", "None"],
+      "answer": 2,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q3",
+      "text": "Venturimeter measures",
+      "options": ["Pressure", "Velocity", "Flow rate", "Head"],
+      "answer": 2,
+      "chapter": "Unit 2: Fluid Flow & Bernoulli's Theorem",
+      "type": "mcq",
+      "formula": "Q = C_d a_1 a_2 \\sqrt{\\frac{2g(h_1 - h_2)}{a_1^2 - a_2^2}}",
+      "formulaId": "venturi-flow"
+    },
+    {
+      "id": "q4",
+      "text": "Bernoulli's equation is based on",
+      "options": ["Conservation of mass", "Conservation of energy", "Both", "None"],
+      "answer": 1,
+      "chapter": "Unit 2",
+      "type": "mcq"
+    },
+    {
+      "id": "q5",
+      "text": "The head loss due to friction in pipe is given by",
+      "options": ["Darcy-Weisbach", "Reynolds", "Fanning", "All"],
+      "answer": 0,
+      "chapter": "Unit 2",
+      "type": "mcq",
+      "formula": "h_f = \\frac{f L V^2}{2 g D}",
+      "formulaId": "darcy-head-loss"
+    },
+    {
+      "id": "q6",
+      "text": "The force exerted by jet on plate is",
+      "options": ["ρ A V²", "ρ A V", "2 ρ A V²", "None"],
+      "answer": 0,
+      "chapter": "Unit 3: Impact of Jets",
+      "type": "mcq",
+      "formula": "F = \\rho A V^2 (1 - \\cos \\theta)",
+      "formulaId": "jet-force"
+    },
+    {
+      "id": "q7",
+      "text": "Pelton turbine is used for",
+      "options": ["High head", "Low head", "Medium head", "All"],
+      "answer": 0,
+      "chapter": "Unit 3: Hydraulic Turbines",
+      "type": "mcq"
+    },
+    {
+      "id": "q8",
+      "text": "Francis turbine is",
+      "options": ["Impulse", "Reaction", "Tangential", "Radial"],
+      "answer": 1,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q9",
+      "text": "Specific speed of turbine is",
+      "options": ["N √P / H^{5/4}", "N √H / P^{5/4}", "P√N / H^{5/4}", "H√P / N^{5/4}"],
+      "answer": 0,
+      "chapter": "Unit 3",
+      "type": "mcq",
+      "formula": "N_s = \\frac{N \\sqrt{P}}{H^{5/4}}",
+      "formulaId": "turbine-specific-speed"
+    },
+    {
+      "id": "q10",
+      "text": "Draft tube is used in",
+      "options": ["Pelton", "Francis", "Kaplan", "All"],
+      "answer": 3,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q11",
+      "text": "Centrifugal pump is used for",
+      "options": ["Low head high discharge", "High head low discharge", "Both", "None"],
+      "answer": 0,
+      "chapter": "Unit 4: Pumps",
+      "type": "mcq"
+    },
+    {
+      "id": "q12",
+      "text": "NPSH stands for",
+      "options": ["Net Positive Suction Head", "Net Pressure Suction Head", "None", "Both"],
+      "answer": 0,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q13",
+      "text": "Reciprocating pump has",
+      "options": ["Pulsating flow", "Steady flow", "Both", "None"],
+      "answer": 0,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q14",
+      "text": "Cavitation occurs due to",
+      "options": ["Low pressure", "High velocity", "Both", "None"],
+      "answer": 2,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q15",
+      "text": "Hydraulic ram is used for",
+      "options": ["Lifting water", "Pressing", "Both", "None"],
+      "answer": 0,
+      "chapter": "Unit 5: Hydraulic Systems",
+      "type": "mcq"
+    },
+
+    // ================== GROUP B: Short Answers (5) ==================
+    {
+      "id": "q16",
+      "text": "Define viscosity.",
+      "answer": "Internal resistance to flow of fluid.",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "text": "What is Bernoulli's theorem?",
+      "answer": "Total energy per unit weight remains constant along streamline.",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "text": "Name two flow measuring devices.",
+      "answer": "1. Venturimeter\n2. Orifice meter",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "text": "What is impact of jet?",
+      "answer": "Force exerted by fluid jet on a surface.",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "text": "Define specific speed of pump.",
+      "answer": "N √Q / H^{3/4}",
+      "chapter": "Unit 4",
+      "type": "short",
+      "marks": 2,
+      "formula": "N_s = \\frac{N \\sqrt{Q}}{H^{3/4}}",
+      "formulaId": "pump-specific-speed"
+    },
+
+    // ================== GROUP C: Long Answers (5) ==================
+    {
+      "id": "q21",
+      "text": "Derive Bernoulli's equation and state assumptions.",
+      "answer": "**Bernoulli's Equation:** \\( \\frac{P}{\\rho g} + \\frac{V^2}{2g} + z = constant \\)\n\n**Derivation:**\nFrom Newton's second law along streamline:\n\\( dP + \\rho V dV + \\rho g dz = 0 \\)\nIntegrate:\n\\( \\frac{P_1}{\\rho} + \\frac{V_1^2}{2} + g z_1 = \\frac{P_2}{\\rho} + \\frac{V_2^2}{2} + g z_2 \\)\nDivide by g:\nHead form.\n\n**Assumptions:**\n1. Steady flow\n2. Incompressible fluid\n3. No friction\n4. Along streamline\n\n**Applications:** Venturimeter, Pitot tube.",
+      "chapter": "Unit 2: Fluid Flow & Bernoulli's Theorem",
+      "type": "long",
+      "marks": 7,
+      "formula": "\\frac{P}{\\rho g} + \\frac{V^2}{2g} + z = constant",
+      "formulaId": "bernoulli-eq",
+      "diagram": false
+    },
+    {
+      "id": "q22",
+      "text": "Explain impact of jet on stationary flat plate normal to jet with derivation.",
+      "answer": "**Impact of Jet:** Force due to momentum change.\n\n**Derivation:**\nMass flow rate: \\( \\dot{m} = \\rho A V \\)\nMomentum change: \\( F = \\dot{m} V = \\rho A V^2 \\)\n\n**For flat plate normal:** V1 = V, V2 = 0, F = \\rho A V^2\n\n**Work done:** F × distance = \\rho A V^3 t\nPower: \\rho A V^3\n\n**Diagram:** Jet → Plate → Splits left/right.",
+      "chapter": "Unit 3: Impact of Jets",
+      "type": "long",
+      "marks": 7,
+      "formula": "F = \\rho A V^2",
+      "formulaId": "jet-impact-flat",
+      "diagram": true
+    },
+    {
+      "id": "q23",
+      "text": "With sketch explain working of Pelton wheel turbine.",
+      "answer": "**Pelton Wheel:** Impulse turbine for high head.\n\n**Construction:**\n- Nozzle\n- Runner with buckets\n- Casing\n- Spear & guide vanes\n\n**Working:**\n1. High pressure water from nozzle → jet.\n2. Jet strikes buckets tangentially.\n3. Water deflected 160–170° → impulse.\n4. Runner rotates → power to generator.\n\n**Efficiency:** Up to 90%.\n\n**Diagram:** Nozzle → Bucket → Runner → Deflected jet.",
+      "chapter": "Unit 3: Hydraulic Turbines",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q24",
+      "text": "Derive the expression for discharge through centrifugal pump.",
+      "answer": "**Discharge Q:** Q = π D B V_r\nWhere D = diameter, B = width, V_r = radial velocity at outlet.\n\n**Derivation:**\nFrom continuity, flow through impeller eye to periphery.\nQ = area × velocity = (π D B) × V_r\n\n**Head developed:** H = (V_u2 u2 - V_u1 u1)/g\nV_u = tangential component.\n\n**Applications:** Irrigation, water supply.",
+      "chapter": "Unit 4: Pumps",
+      "type": "long",
+      "marks": 7,
+      "formula": "Q = \\pi D B V_r",
+      "formulaId": "pump-discharge",
+      "diagram": false
+    },
+    {
+      "id": "q25",
+      "text": "Explain hydraulic ram with sketch and working.",
+      "answer": "**Hydraulic Ram:** Automatic pump for lifting water.\n\n**Construction:**\n- Drive pipe\n- Ram valve\n- Delivery valve\n- Air vessel\n- Delivery pipe\n\n**Working:**\n1. Water flow from reservoir → drive pipe.\n2. Velocity increases → ram valve slams shut.\n3. Pressure surge → delivery valve opens → water to delivery.\n4. Air vessel smooths flow.\n\n**Efficiency:** 60–80%.\n\n**Diagram:** Reservoir → Drive Pipe → Ram Valve → Delivery Valve → Air Vessel → Lift Pipe.",
+      "chapter": "Unit 5: Hydraulic Systems",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    }
+  ]
+}

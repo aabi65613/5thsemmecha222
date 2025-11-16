@@ -1,0 +1,224 @@
+{
+  "year": "2022",
+  "code": "573(s)",
+  "questions": [
+    // ================== GROUP A: MCQs (15) ==================
+    {
+      "id": "q1",
+      "text": "The Rankine cycle is used in",
+      "options": ["Steam power plant", "Diesel engine", "Petrol engine", "Gas turbine"],
+      "answer": 0,
+      "chapter": "Unit 1: Steam Boilers & Rankine Cycle",
+      "type": "mcq"
+    },
+    {
+      "id": "q2",
+      "text": "The function of a superheater is to",
+      "options": ["Increase pressure", "Increase temperature", "Remove moisture", "All of the above"],
+      "answer": 1,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q3",
+      "text": "In a water tube boiler, water flows through",
+      "options": ["Tubes", "Shell", "Furnace", "Chimney"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q4",
+      "text": "The efficiency of Rankine cycle is given by",
+      "options": ["1 - (T2/T1)", "1 - (T1/T2)", "(T1 - T2)/T1", "None"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq",
+      "formula": "\\eta = 1 - \\frac{T_2}{T_1}",
+      "formulaId": "rankine-eff"
+    },
+    {
+      "id": "q5",
+      "text": "A condenser in steam power plant is used to",
+      "options": ["Condense steam", "Heat feed water", "Remove air", "All of the above"],
+      "answer": 3,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q6",
+      "text": "The specific speed of a turbine is proportional to",
+      "options": ["N√P / H^{5/4}", "N√H / P^{5/4}", "P√N / H^{5/4}", "H√P / N^{5/4}"],
+      "answer": 0,
+      "chapter": "Unit 2: Steam Turbines",
+      "type": "mcq",
+      "formula": "N_s = \\frac{N \\sqrt{P}}{H^{5/4}}",
+      "formulaId": "specific-speed"
+    },
+    {
+      "id": "q7",
+      "text": "In impulse turbine, pressure drop occurs in",
+      "options": ["Nozzle", "Blades", "Casing", "None"],
+      "answer": 0,
+      "chapter": "Unit 2",
+      "type": "mcq"
+    },
+    {
+      "id": "q8",
+      "text": "Pelton wheel is suitable for",
+      "options": ["High head, low discharge", "Low head, high discharge", "Medium head", "All"],
+      "answer": 0,
+      "chapter": "Unit 3: Hydraulic Turbines",
+      "type": "mcq"
+    },
+    {
+      "id": "q9",
+      "text": "Francis turbine is a",
+      "options": ["Impulse turbine", "Reaction turbine", "Axial flow", "None"],
+      "answer": 1,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q10",
+      "text": "The function of a draft tube in reaction turbine is to",
+      "options": ["Increase velocity", "Reduce pressure below atmospheric", "Guide water", "All"],
+      "answer": 1,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q11",
+      "text": "In centrifugal pump, impeller converts",
+      "options": ["Kinetic to pressure", "Pressure to kinetic", "Mechanical to kinetic", "None"],
+      "answer": 0,
+      "chapter": "Unit 4: Pumps",
+      "type": "mcq"
+    },
+    {
+      "id": "q12",
+      "text": "Manometric head is",
+      "options": ["Total head - losses", "Suction + delivery head", "Velocity head", "None"],
+      "answer": 1,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q13",
+      "text": "The efficiency of a reciprocating compressor is",
+      "options": ["Isothermal", "Isentropic", "Volumetric", "Mechanical"],
+      "answer": 2,
+      "chapter": "Unit 5: Air Compressors",
+      "type": "mcq"
+    },
+    {
+      "id": "q14",
+      "text": "In single stage compressor, pressure ratio is",
+      "options": ["< 5", "> 10", "5-10", "Any"],
+      "answer": 0,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+    {
+      "id": "q15",
+      "text": "The function of intercooler is to",
+      "options": ["Cool air", "Reduce work", "Increase pressure", "All"],
+      "answer": 1,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+
+    // ================== GROUP B: Short Answers (5) ==================
+    {
+      "id": "q16",
+      "text": "Define boiler efficiency.",
+      "answer": "Ratio of heat utilized in steam generation to heat supplied by fuel.",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "text": "What is a nozzle?",
+      "answer": "A device that converts pressure energy into kinetic energy.",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "text": "Name two types of hydraulic turbines.",
+      "answer": "1. Pelton wheel\n2. Francis turbine",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "text": "What is NPSH?",
+      "answer": "Net Positive Suction Head - minimum head required at pump inlet to avoid cavitation.",
+      "chapter": "Unit 4",
+      "type": "short",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "text": "Define volumetric efficiency of compressor.",
+      "answer": "Ratio of actual volume of air delivered to swept volume of piston.",
+      "chapter": "Unit 5",
+      "type": "short",
+      "marks": 2
+    },
+
+    // ================== GROUP C: Long Answers (5) ==================
+    {
+      "id": "q21",
+      "text": "Explain the working of Rankine cycle with P-V and T-S diagram.",
+      "answer": "The **Rankine cycle** is the ideal cycle for steam power plants.\n\n**Processes:**\n1. **1-2 (Isentropic compression):** Feed pump raises water pressure.\n2. **2-3 (Isobaric heat addition):** Water heated to steam in boiler.\n3. **3-4 (Isentropic expansion):** Steam expands in turbine, producing work.\n4. **4-1 (Isobaric heat rejection):** Steam condensed in condenser.\n\n**Efficiency:** \\(\\eta = 1 - \\frac{T_4 - T_1}{T_3 - T_2}\\)\n\n**P-V Diagram:** Pump → Boiler → Turbine → Condenser\n**T-S Diagram:** Entropy increases in boiler, decreases in condenser.\n\n**Diagram:** Label points 1,2,3,4 on both P-V and T-S.",
+      "chapter": "Unit 1: Steam Boilers & Rankine Cycle",
+      "type": "long",
+      "marks": 7,
+      "formula": "\\eta = 1 - \\frac{T_2}{T_1}",
+      "formulaId": "rankine-eff",
+      "diagram": true
+    },
+    {
+      "id": "q22",
+      "text": "With sketch explain construction and working of Babcock & Wilcox boiler.",
+      "answer": "**Babcock & Wilcox** is a water tube boiler.\n\n**Construction:**\n- Water drum\n- Steam drum\n- Inclined water tubes\n- Superheater\n- Uptake & downtake headers\n- Grate & furnace\n\n**Working:**\n1. Water in drum flows down to headers.\n2. Rises through inclined tubes due to heat.\n3. Steam-water mixture to steam drum.\n4. Steam separated, superheated, sent to turbine.\n\n**Advantages:** High pressure, quick steaming, easy cleaning.\n\n**Diagram:** Steam Drum → Tubes → Water Drum → Superheater.",
+      "chapter": "Unit 1",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q23",
+      "text": "Explain velocity diagram of impulse turbine and derive work done.",
+      "answer": "In **impulse turbine**, pressure drop in nozzle, velocity increase.\n\n**Velocity Diagram:**\n- Inlet: High velocity jet (V1)\n- Blade velocity (u)\n- Relative velocity (Vr1 = V1 - u)\n- Exit: Vr2, V2\n\n**Work done per kg:**\n\\( W = u (V_{w1} + V_{w2}) \\)\nwhere \\(V_w\\) = whirl component.\n\n**Diagram:** Triangle with V1, u, Vr1, Vr2, V2.\n\n**Efficiency:** Blade efficiency = \\(\\frac{2u(V_1 - u)}{V_1^2}\\)",
+      "chapter": "Unit 2: Steam Turbines",
+      "type": "long",
+      "marks": 7,
+      "formula": "W = u (V_{w1} + V_{w2})",
+      "formulaId": "impulse-work",
+      "diagram": true
+    },
+    {
+      "id": "q24",
+      "text": "With sketch explain working of centrifugal pump and define manometric head.",
+      "answer": "**Centrifugal pump** converts mechanical to hydraulic energy.\n\n**Construction:**\n- Impeller\n- Casing (volute)\n- Suction pipe\n- Delivery pipe\n\n**Working:**\n1. Impeller rotates → centrifugal force.\n2. Water from eye to periphery.\n3. Velocity → pressure in volute.\n4. Delivered through pipe.\n\n**Manometric head:**\n\\( H_m = H_s + H_d + h_f \\)\nSuction head + delivery head + losses.\n\n**Diagram:** Impeller → Eye → Volute → Delivery.",
+      "chapter": "Unit 4: Pumps",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q25",
+      "text": "Explain with P-V diagram the working of two-stage reciprocating compressor with intercooling.",
+      "answer": "Two-stage with intercooling reduces work.\n\n**Stages:**\n1. LP cylinder → intercooler → HP cylinder\n\n**P-V Diagram:**\n- 1-2: LP compression\n- 2-3: Intercooling (constant pressure)\n- 3-4: HP compression\n\n**Work saved:** Area between single and two-stage.\n\n**Advantages:** Lower temperature, less work, better efficiency.\n\n**Diagram:** Two loops with intercooling line.",
+      "chapter": "Unit 5: Air Compressors",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    }
+  ]
+}

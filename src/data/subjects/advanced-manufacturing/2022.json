@@ -1,0 +1,227 @@
+{
+  "year": "2022",
+  "code": "518(2/N)",
+  "questions": [
+    // ================== GROUP A: MCQs (15) ==================
+    {
+      "id": "q1",
+      "text": "Non-Traditional machining is recommended when we need which of the following features?",
+      "options": ["Complex shapes", "High surface quality", "Low rigidity structures", "All of the mentioned"],
+      "answer": 3,
+      "chapter": "Unit 1: Introduction to Non-traditional Machining",
+      "type": "mcq",
+      "repeatedIn": [{ "year": "2024 Dec", "qno": "i" }, { "year": "2023", "qno": "i" }]
+    },
+    {
+      "id": "q2",
+      "text": "Source of energy in NTM is",
+      "options": ["Mechanical", "Thermal", "Chemical", "All of the above"],
+      "answer": 3,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q3",
+      "text": "This device used for converting any type of energy into Ultrasonic Wave in USM is",
+      "options": ["Electronic oscillator", "Velocity transformer", "Horn", "Ultrasonic transducer"],
+      "answer": 1,
+      "chapter": "Unit 2",
+      "type": "mcq",
+      "formula": "f = 1/T",
+      "formulaId": "usm-freq"
+    },
+    {
+      "id": "q4",
+      "text": "Which of the following is a mechanical machining process?",
+      "options": ["EDM", "ECM", "LBM", "PAM"],
+      "answer": 3,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q5",
+      "text": "Electrode wire in EDM is made from",
+      "options": ["Copper", "Nickel", "Brass", "Tungsten"],
+      "answer": 1,
+      "chapter": "Unit 2",
+      "type": "mcq",
+      "formula": "MRR = I·t / (F·ρ)",
+      "formulaId": "edm-mrr"
+    },
+    {
+      "id": "q6",
+      "text": "Degree of freedom in space is",
+      "options": ["3", "4", "6", "12"],
+      "answer": 2,
+      "chapter": "Unit 3",
+      "type": "mcq",
+      "formula": "DOF = 6",
+      "formulaId": "dof-space"
+    },
+    {
+      "id": "q7",
+      "text": "With the use of Jigs & Fixture, labour cost will be",
+      "options": ["Increased", "Decreased", "Unchanged", "None"],
+      "answer": 2,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q8",
+      "text": "Jigs are preferred over fixture in",
+      "options": ["Drilling", "Milling", "Turning", "Grinding"],
+      "answer": 0,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q9",
+      "text": "DNC stands for",
+      "options": ["Direct Numerical Control", "Distributed Numerical Control", "Data Numerical Control", "None"],
+      "answer": 0,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q10",
+      "text": "“EOB” in CNC programming stands for",
+      "options": ["End of block", "End of program", "End of operation", "None"],
+      "answer": 0,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+    {
+      "id": "q11",
+      "text": "CNC machine does NOT include",
+      "options": ["Turning", "Milling", "Welding", "Grinding"],
+      "answer": 2,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q12",
+      "text": "“M” Codes are used for",
+      "options": ["Preparatory Function", "Miscellaneous Function", "Motion Function", "None"],
+      "answer": 1,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+    {
+      "id": "q13",
+      "text": "“G” Codes are used for",
+      "options": ["Miscellaneous Function", "Preparatory Function", "Motion Function", "None"],
+      "answer": 1,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+    {
+      "id": "q14",
+      "text": "Every FMS has entry & exit",
+      "options": ["True", "False"],
+      "answer": 0,
+      "chapter": "Unit 6",
+      "type": "mcq"
+    },
+    {
+      "id": "q15",
+      "text": "“FMS” stands for",
+      "options": ["Flexible Machining System", "Fast Machining System", "Flexible Manufacturing System", "None"],
+      "answer": 2,
+      "chapter": "Unit 6",
+      "type": "mcq"
+    },
+
+    // ================== GROUP B: Short Answers (5) ==================
+    {
+      "id": "q16",
+      "text": "Define MRR in EDM.",
+      "answer": "Material Removal Rate (MRR) in EDM is the volume of material removed per unit time. Formula: MRR = (I × t) / (F × ρ)",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2,
+      "formula": "MRR = I·t / (F·ρ)",
+      "formulaId": "edm-mrr"
+    },
+    {
+      "id": "q17",
+      "text": "What is the function of dielectric fluid in EDM?",
+      "answer": "Dielectric fluid acts as coolant, flushes debris, and prevents arcing between electrode and workpiece.",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "text": "State any two advantages of Jigs and Fixtures.",
+      "answer": "1. Reduces production time\n2. Improves accuracy and repeatability",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "text": "What is the full form of CNC?",
+      "answer": "Computer Numerical Control",
+      "chapter": "Unit 4",
+      "type": "short",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "text": "Name any two G-codes used in CNC programming.",
+      "answer": "G00 - Rapid positioning\nG01 - Linear interpolation",
+      "chapter": "Unit 5",
+      "type": "short",
+      "marks": 2
+    },
+
+    // ================== GROUP C: Long Answers (5) ==================
+    {
+      "id": "q21",
+      "text": "Explain the working principle of Ultrasonic Machining (USM) with a neat sketch.",
+      "answer": "Ultrasonic Machining (USM) is a non-traditional mechanical process used for machining hard and brittle materials like glass, ceramics, and carbides.\n\n**Working Principle:**\n1. A high-frequency (18–40 kHz) electrical signal is converted into mechanical vibrations using a transducer (piezoelectric/magnetostrictive).\n2. These vibrations are amplified by a horn and transmitted to the tool.\n3. The tool vibrates vertically and impacts abrasive slurry (B4C, SiC) between tool and workpiece.\n4. Abrasive particles remove material by micro-chipping.\n\n**Key Components:**\n- Transducer\n- Concentrator (Horn)\n- Tool/Resource\n- Abrasive slurry\n- Workpiece\n\n**Advantages:** No heat-affected zone, suitable for non-conductive materials.\n\n**Diagram:** Tool → Horn → Transducer → Oscillator; Slurry flow between tool and workpiece.",
+      "chapter": "Unit 2: Non-traditional Machining Processes",
+      "type": "long",
+      "marks": 7,
+      "formula": "f = 1/T",
+      "formulaId": "usm-freq",
+      "diagram": true
+    },
+    {
+      "id": "q22",
+      "text": "With neat sketch explain the principle of EDM. State its applications.",
+      "answer": "Electric Discharge Machining (EDM) is a thermal erosion process where material is removed by controlled spark discharges.\n\n**Principle:**\n1. Tool (electrode) and workpiece are submerged in dielectric fluid.\n2. High voltage creates spark between tool and workpiece.\n3. Spark melts and vaporizes material forming crater.\n4. Dielectric flushes debris.\n\n**Applications:**\n- Die and mold making\n- Micro-hole drilling\n- Turbine blade cooling holes\n- Hardened steel machining\n\n**Diagram:** Tool → Spark → Workpiece → Dielectric → Debris flush.",
+      "chapter": "Unit 2",
+      "type": "long",
+      "marks": 7,
+      "formula": "MRR = I·t / (F·ρ)",
+      "formulaId": "edm-mrr",
+      "diagram": true
+    },
+    {
+      "id": "q23",
+      "text": "Explain the construction and working of any one type of jig with sketch.",
+      "answer": "A **Drill Jig** is used to guide the drill bit accurately.\n\n**Construction:**\n- Base plate\n- Jig bush (hardened steel)\n- Clamping device\n- Locating pins\n\n**Working:**\n1. Workpiece is located using pins.\n2. Clamped securely.\n3. Drill bit passes through jig bush for precise hole.\n\n**Diagram:** Base → Bush → Workpiece → Clamp.",
+      "chapter": "Unit 3",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q24",
+      "text": "Write a CNC part program for turning a cylindrical job of diameter 50 mm and length 100 mm.",
+      "answer": "N10 G21 G90\nN20 G00 X55 Z5\nN30 G01 Z-100 F100\nN40 G00 X0\nN50 M30\n\n**Explanation:**\n- G21: Metric\n- G90: Absolute\n- G00: Rapid\n- G01: Feed\n- M30: End",
+      "chapter": "Unit 5",
+      "type": "long",
+      "marks": 7
+    },
+    {
+      "id": "q25",
+      "text": "What is FMS? State its advantages and limitations.",
+      "answer": "Flexible Manufacturing System (FMS) is an automated system with CNC machines, robots, and material handling.\n\n**Advantages:**\n- High flexibility\n- Reduced lead time\n- Low inventory\n\n**Limitations:**\n- High initial cost\n- Complex programming\n- Requires skilled labor",
+      "chapter": "Unit 6",
+      "type": "long",
+      "marks": 7
+    }
+  ]
+}

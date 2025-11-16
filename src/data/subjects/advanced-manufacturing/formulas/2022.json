@@ -1,0 +1,20 @@
+[
+  {
+    "id": "usm-freq",
+    "name": "USM Frequency",
+    "latex": "f = \\frac{1}{T}",
+    "usedIn": ["q3", "q21"]
+  },
+  {
+    "id": "edm-mrr",
+    "name": "MRR in EDM",
+    "latex": "MRR = \\frac{I \\cdot t}{F \\cdot \\rho}",
+    "usedIn": ["q5", "q16", "q22"]
+  },
+  {
+    "id": "dof-space",
+    "name": "Degree of Freedom",
+    "latex": "DOF = 6",
+    "usedIn": ["q6"]
+  }
+]

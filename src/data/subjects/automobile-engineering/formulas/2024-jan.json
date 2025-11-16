@@ -1,0 +1,14 @@
+[
+  {
+    "id": "gear-ratio",
+    "name": "Gear Ratio",
+    "latex": "GR = \\frac{N_{input}}{N_{output}}",
+    "usedIn": ["q1"]
+  },
+  {
+    "id": "brake-force",
+    "name": "Braking Force",
+    "latex": "F = \\mu \\cdot N",
+    "usedIn": ["q22"]
+  }
+]

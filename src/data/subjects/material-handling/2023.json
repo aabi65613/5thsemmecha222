@@ -1,0 +1,216 @@
+{
+  "year": "2023",
+  "code": "518(2/N)",
+  "questions": [
+    // ================== GROUP A: MCQs (15) ==================
+    {
+      "id": "q1",
+      "text": "Material handling involves",
+      "options": ["Movement, storage, protection", "Only lifting", "Only transport", "None"],
+      "answer": 0,
+      "chapter": "Unit 1: Introduction",
+      "type": "mcq"
+    },
+    {
+      "id": "q2",
+      "text": "The principle of material handling is to",
+      "options": ["Minimize movement", "Maximize speed", "Increase cost", "None"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q3",
+      "text": "Unit load concept means",
+      "options": ["Handling one unit at a time", "Handling in batches", "No load", "All"],
+      "answer": 0,
+      "chapter": "Unit 1",
+      "type": "mcq"
+    },
+    {
+      "id": "q4",
+      "text": "Belt conveyor is suitable for",
+      "options": ["Bulk material", "Heavy loads", "Fragile items", "All"],
+      "answer": 0,
+      "chapter": "Unit 2: Conveyors",
+      "type": "mcq"
+    },
+    {
+      "id": "q5",
+      "text": "The angle of repose is maximum for",
+      "options": ["Dry sand", "Wet clay", "Gravel", "Powder"],
+      "answer": 1,
+      "chapter": "Unit 2",
+      "type": "mcq"
+    },
+    {
+      "id": "q6",
+      "text": "Cranes are used for",
+      "options": ["Vertical lifting", "Horizontal movement", "Both", "None"],
+      "answer": 2,
+      "chapter": "Unit 3: Hoisting Equipment",
+      "type": "mcq"
+    },
+    {
+      "id": "q7",
+      "text": "EOT crane stands for",
+      "options": ["Electric Overhead Traveling", "Engine Operated Truck", "Elevated Over Track", "None"],
+      "answer": 0,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q8",
+      "text": "Forklift is a",
+      "options": ["Truck", "Crane", "Conveyor", "Elevator"],
+      "answer": 0,
+      "chapter": "Unit 4: Industrial Trucks",
+      "type": "mcq"
+    },
+    {
+      "id": "q9",
+      "text": "AGV stands for",
+      "options": ["Automated Guided Vehicle", "All Ground Vehicle", "Auto Gear Vehicle", "None"],
+      "answer": 0,
+      "chapter": "Unit 4",
+      "type": "mcq"
+    },
+    {
+      "id": "q10",
+      "text": "Pallet is used for",
+      "options": ["Unit load", "Bulk storage", "Liquid", "Gas"],
+      "answer": 0,
+      "chapter": "Unit 5: Packaging & Storage",
+      "type": "mcq"
+    },
+    {
+      "id": "q11",
+      "text": "The factor of safety for wire rope is",
+      "options": ["5–8", "1–2", "10–12", "20"],
+      "answer": 0,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q12",
+      "text": "Chain conveyor is used for",
+      "options": ["Heavy loads", "Light loads", "Liquids", "Gases"],
+      "answer": 0,
+      "chapter": "Unit 2",
+      "type": "mcq"
+    },
+    {
+      "id": "q13",
+      "text": "Roller conveyor works on",
+      "options": ["Gravity", "Motor", "Both", "None"],
+      "answer": 2,
+      "chapter": "Unit 2",
+      "type": "mcq"
+    },
+    {
+      "id": "q14",
+      "text": "The capacity of a crane is determined by",
+      "options": ["SWL", "Breaking load", "Rope diameter", "All"],
+      "answer": 0,
+      "chapter": "Unit 3",
+      "type": "mcq"
+    },
+    {
+      "id": "q15",
+      "text": "ASRS stands for",
+      "options": ["Automated Storage & Retrieval System", "All Storage Rack System", "Auto Shelf Rack System", "None"],
+      "answer": 0,
+      "chapter": "Unit 5",
+      "type": "mcq"
+    },
+
+    // ================== GROUP B: Short Answers (5) ==================
+    {
+      "id": "q16",
+      "text": "Define material handling.",
+      "answer": "Movement, storage, protection, and control of materials throughout manufacturing, warehousing, distribution, and disposal.",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "text": "State any two principles of material handling.",
+      "answer": "1. Minimize movement\n2. Use gravity where possible",
+      "chapter": "Unit 1",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "text": "Name two types of conveyors.",
+      "answer": "1. Belt conveyor\n2. Roller conveyor",
+      "chapter": "Unit 2",
+      "type": "short",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "text": "What is SWL?",
+      "answer": "Safe Working Load – maximum load a lifting device can handle safely.",
+      "chapter": "Unit 3",
+      "type": "short",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "text": "Define unit load.",
+      "answer": "A single unit or batch handled as one to reduce handling cost and time.",
+      "chapter": "Unit 5",
+      "type": "short",
+      "marks": 2
+    },
+
+    // ================== GROUP C: Long Answers (5) ==================
+    {
+      "id": "q21",
+      "text": "Explain the principles of material handling with examples.",
+      "answer": "**10 Key Principles:**\n1. **Planning:** Plan all movements in advance.\n2. **System:** Integrate handling into production system.\n3. **Unit Load:** Handle in largest possible units.\n4. **Space Utilization:** Use height and floor space efficiently.\n5. **Gravity:** Use gravity for flow where possible.\n6. **Mechanization:** Use machines to reduce labor.\n7. **Standardization:** Use standard equipment.\n8. **Safety:** Ensure safe operation.\n9. **Flexibility:** Design for changes.\n10. **Cost:** Minimize total cost.\n\n**Example:** Using pallets (unit load) + forklift (mechanization) + gravity roller (gravity).",
+      "chapter": "Unit 1: Introduction",
+      "type": "long",
+      "marks": 7,
+      "diagram": false
+    },
+    {
+      "id": "q22",
+      "text": "With sketch explain construction and working of belt conveyor.",
+      "answer": "**Construction:**\n- Endless belt\n- Drive pulley\n- Idler pulley\n- Rollers\n- Frame\n- Motor & gearbox\n\n**Working:**\n1. Motor rotates drive pulley.\n2. Belt moves due to friction.\n3. Material placed on belt is carried.\n4. Return idlers support return belt.\n\n**Types:** Flat, troughed, inclined.\n\n**Advantages:** Continuous flow, long distance, bulk.\n\n**Diagram:** Drive pulley → Belt → Material → Idlers → Return.",
+      "chapter": "Unit 2: Conveyors",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q23",
+      "text": "Classify cranes and explain EOT crane with sketch.",
+      "answer": "**Classification:**\n1. **Mobile:** Jib, gantry\n2. **Fixed:** Overhead, tower\n3. **By Motion:** Traveling, slewing\n\n**EOT Crane (Electric Overhead Traveling):**\n- Bridge spans runway\n- Hoist moves along bridge\n- Bridge travels on rails\n- Used in factories\n\n**Components:**\n- Bridge girder\n- End carriage\n- Hoist trolley\n- Rails\n\n**Advantages:** Large area coverage, heavy load.\n\n**Diagram:** Runway → Bridge → Hoist → Load.",
+      "chapter": "Unit 3: Hoisting Equipment",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q24",
+      "text": "Explain types of industrial trucks used in material handling.",
+      "answer": "**Types:**\n1. **Hand Truck:** Manual, two-wheel, light load.\n2. **Pallet Truck:** Hydraulic lift, pallet movement.\n3. **Forklift Truck:** Counterbalanced, reach, stacker.\n4. **Platform Truck:** Flat platform, motor/manual.\n5. **AGV:** Automated, laser/wire guided.\n\n**Selection Criteria:** Load, height, aisle width, floor.\n\n**Advantages:** Flexible, versatile.\n\n**Diagram:** Forklift with forks, counterweight, mast.",
+      "chapter": "Unit 4: Industrial Trucks",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    },
+    {
+      "id": "q25",
+      "text": "Explain the concept of unit load and its advantages. Describe pallet with sketch.",
+      "answer": "**Unit Load:** Handling multiple items as single unit using pallets, containers, skids.\n\n**Advantages:**\n1. Reduces handling time\n2. Minimizes damage\n3. Enables mechanization\n4. Improves space use\n5. Lowers cost\n\n**Pallet:** Flat platform for stacking.\n- **Types:** Two-way, four-way, wooden, plastic\n- **Standard Size:** 48\" × 40\"\n- Used with forklift, pallet jack\n\n**Diagram:** Pallet with stringers, deck boards, fork entry.",
+      "chapter": "Unit 5: Packaging & Storage",
+      "type": "long",
+      "marks": 7,
+      "diagram": true
+    }
+  ]
+}
