@@ -37,7 +37,7 @@ export default function SubjectPage({ params }: { params: { subject: string } })
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {years.map((year) => (
-            <Link key={year} href={`/${subject}/${year}`} className="block p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition duration-300">
+            <Link key={year} href={`/${params.subject}/${year}`} className="block p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition duration-300">
                 <h2 className="text-xl font-semibold text-gray-800">Year: {year}</h2>
                 <p className="text-sm text-green-600 mt-1">View Full Paper</p>
             </Link>
