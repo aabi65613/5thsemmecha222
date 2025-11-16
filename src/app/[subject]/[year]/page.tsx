@@ -35,6 +35,28 @@ const formatSubjectName = (slug: string) => {
   return slug ? slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ') : 'Subject';
 };
 
+// Function to get all possible subject and year combinations for static generation
+export async function generateStaticParams() {
+  const subjectsDir = path.join(process.cwd(), 'src', 'data', 'subjects');
+  const subjectFolders = await fs.readdir(subjectsDir);
+
+  const allParams: { subject: string; year: string }[] = [];
+
+  for (const subject of subjectFolders) {
+    const subjectPath = path.join(subjectsDir, subject);
+    const yearFiles = await fs.readdir(subjectPath);
+
+    for (const file of yearFiles) {
+      if (file.endsWith('.json')) {
+        const year = file.replace('.json', '');
+        allParams.push({ subject, year });
+      }
+    }
+  }
+
+  return allParams;
+}
+
 export default async function YearPage({ params }: { params: { subject: string, year: string } }) {
   const { subject, year } = params;
   const questions = await loadQuestions(subject, year);

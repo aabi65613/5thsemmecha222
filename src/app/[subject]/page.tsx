@@ -1,4 +1,16 @@
 import Link from 'next/link';
+import { promises as fs } from 'fs';
+import path from 'path';
+
+// Function to get all possible subjects for static generation
+export async function generateStaticParams() {
+  const subjectsDir = path.join(process.cwd(), 'src', 'data', 'subjects');
+  const subjectFolders = await fs.readdir(subjectsDir);
+
+  return subjectFolders.map((subject) => ({
+    subject,
+  }));
+}
 
 // Dummy year list for a subject page
 const years = ['2024-dec', '2024-jan', '2023', '2022'];

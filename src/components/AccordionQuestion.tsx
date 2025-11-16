@@ -92,9 +92,9 @@ export default function AccordionQuestion({ question, subject, year }: Accordion
           {question.repeatedIn && question.repeatedIn.length > 0 && (
             <p className="text-sm">
               <strong>Repeated in:</strong>{' '}
-              {question.repeatedIn.map((r, i) => (
+              {question.repeatedIn!.map((r, i) => (
                 <span key={i}>
-                  {r.year} ({r.qno}){i < question.repeatedIn.length - 1 && ', '}
+                  {r.year} ({r.qno}){i < question.repeatedIn!.length - 1 && ', '}
                 </span>
               ))}
             </p>
